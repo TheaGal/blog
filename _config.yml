@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Timo <ruby>経験 <rp>(</rp><rt>Keiken</rt><rp>)</rp></ruby>
+title: Thea <ruby>経験 <rp>(</rp><rt>Keiken</rt><rp>)</rp></ruby>
 description: >-
   A deep dive into the tech and design of what it's taking me to make
-  a game while shipping my own engine.
+  a game while shipping my own engine. (AKA Thea's descent into madness)
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://timoguy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://theagal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -59,12 +59,12 @@ sass:
 # google_analytics: UA-000000-0
 
 # Replace this value and uncomment to enable Disqus
-disqus: timo-keiken
+disqus: thea-keiken
 
 # Specify the author for blog posts
 author:
-  name: Timo
-  url: https://github.com/TimoGuy/
+  name: Thea
+  url: https://github.com/TheaGal/
   email: jojojojojojojojojojojojojojojojojojo@website.com
 
 # Exclude from processing.
