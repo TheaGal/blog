@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Thea <ruby>経験 <rp>(</rp><rt>Keiken</rt><rp>)</rp></ruby>
+title: <ruby>シア <rp>(</rp><rt>Thea</rt><rp>)</rp></ruby> <ruby>和声 <rp>(</rp><rt>Harmony</rt><rp>)</rp></ruby>
 description: >-
-  A deep dive into the tech and design of what it's taking me to make
-  a game while shipping my own engine. (AKA Thea's descent into madness)
+  Writing games with custom engines!
+  I like C++, but I want to make it easier to use. I may use Odin lang in the future.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://theagal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 avatar: /avatar.jpeg
@@ -59,7 +59,7 @@ sass:
 # google_analytics: UA-000000-0
 
 # Replace this value and uncomment to enable Disqus
-disqus: thea-keiken
+# disqus: thea-keiken  @TODO: Uncomment this when you finally get Disqus working!!!
 
 # Specify the author for blog posts
 author:
